@@ -1,0 +1,10 @@
+[calendar]
+#calendar = ""
+# format = "mm-dd" (unused)
+#birthday = ""
+# output = ["stdio"]
+
+# Uncomment to use Discord to send notifications
+#[discord]
+#webhookurl = ""
+
